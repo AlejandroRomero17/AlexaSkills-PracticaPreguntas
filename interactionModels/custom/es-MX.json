@@ -1,0 +1,98 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "SaludoIntent",
+          "samples": [
+            "Abre saludo Alejandro Romero",
+            "Alejandro Romero",
+            "Iniciar",
+            "Abre mi primera skill",
+            "Inicia",
+            "Hola"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "UbicacionIntent",
+          "samples": [
+            "en qué lugar estoy ubicado",
+            "cuál es mi ubicación",
+            "dónde estoy"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "DiaIntent",
+          "samples": [
+            "dime el día de hoy",
+            "cuál es la fecha actual",
+            "qué día es hoy"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "EstacionIntent",
+          "samples": [
+            "estamos en verano",
+            "qué estación del año es ahora",
+            "en qué estación estamos"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CreadorIntent",
+          "samples": [
+            "quién hizo esta skill",
+            "quién es tu creador",
+            "quién te creó"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CarreraIntent",
+          "samples": [
+            "qué estudia Alejandro",
+            "qué carrera estudia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ColorFavoritoIntent",
+          "samples": [
+            "qué color le gusta",
+            "cuál es su color favorito"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicaFavoritaIntent",
+          "samples": [
+            "qué música le gusta",
+            "cuál es su cantante favorito"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "asistente alejandro"
+    }
+  }
+}
